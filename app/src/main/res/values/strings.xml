@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Currency App</string>
     <string name="_0">0</string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+
+    <string name="network_login_again">Please log in again</string>
+
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time</string>
 </resources>
